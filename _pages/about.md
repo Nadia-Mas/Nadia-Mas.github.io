@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: baharan.jpg
+  image: nadia.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Engineering VI - 397B</p>
