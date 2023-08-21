@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nadias-mas.github.io/sitemap.xml
+Sitemap: https://nadia-mas.github.io/sitemap.xml
