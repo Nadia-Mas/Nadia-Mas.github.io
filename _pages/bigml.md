@@ -1,12 +1,12 @@
 ---
-layout: page
-title: BigML
-permalink: /bigml/
+#layout: page
+#title: BigML
+#permalink: /bigml/
 # description: </h3>PhD students:</h3>
-nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+#nav: true
+#nav_order: 3
+#display_categories: [work, fun]
+#horizontal: false
 ---
 
 
