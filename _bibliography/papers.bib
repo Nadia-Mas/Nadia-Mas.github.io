@@ -5,15 +5,13 @@
 
 @article{joshi2023spuco,
   bibtex_show={true},
-  abbr={ArXiv},
-  title={Towards Mitigating Spurious Correlations in the Wild: A Benchmark & a more Realistic Dataset},
-  abstract={Deep neural networks often exploit non-predictive features that are spuriously correlated with class labels, leading to poor performance on groups of examples without such features. Despite the growing body of recent works on remedying spurious correlations, the lack of a standardized benchmark hinders reproducible evaluation and comparison of the proposed solutions. To address this, we present SpuCo, a python package with modular implementations of state-of-the-art solutions enabling easy and reproducible evaluation of current methods. Using SpuCo, we demonstrate the limitations of existing datasets and evaluation schemes in validating the learning of predictive features over spurious ones. To overcome these limitations, we propose two new vision datasets: (1) SpuCoMNIST, a synthetic dataset that enables simulating the effect of real world data properties e.g. difficulty of learning spurious feature, as well as noise in the labels and features; (2) SpuCoAnimals, a large-scale dataset curated from ImageNet that captures spurious correlations in the wild much more closely than existing datasets. These contributions highlight the shortcomings of current methods and provide a direction for future research in tackling spurious correlations. SpuCo, containing the benchmark and datasets, can be found at https://github.com/BigML-CS-UCLA/SpuCo, with detailed documentation available at https://spuco.readthedocs.io/en/latest/.},
-  author={Joshi, Siddharth and Yang, Yu and Xue, Yihao and Yang., Wenhan and Mirzasoleiman, Baharan},
-  journal={arXiv preprint arXiv:2306.11957},
-  arxiv={2306.11957},
-  year={Preprints},
-  code={https://github.com/BigML-CS-UCLA/SpuCo},
-  website={https://spuco.readthedocs.io/en/latest/},
+  abbr={MDPI},
+  title={Regularized Contrastive Masked Autoencoder Model for Machinery Anomaly Detection Using Diffusion-Based Data Augmentation},
+  abstract={Unsupervised anomalous sound detection, especially self-supervised methods, plays a crucial role in differentiating unknown abnormal sounds of machines from normal sounds. Self-supervised learning can be divided into two main categories: Generative and Contrastive methods. While Generative methods mainly focus on reconstructing data, Contrastive learning methods refine data representations by leveraging the contrast between each sample and its augmented version. However, existing Contrastive learning methods for anomalous sound detection often have two main problems. The first one is that they mostly rely on simple augmentation techniques, such as time or frequency masking, which may introduce biases due to the limited diversity of real-world sounds and noises encountered in practical scenarios (e.g., factory noises combined with machine sounds). The second issue is dimension collapsing, which leads to learning a feature space with limited representation. To address the first shortcoming, we suggest a diffusion-based data augmentation method that employs ChatGPT and AudioLDM. Also, to address the second concern, we put forward a two-stage self-supervised model. In the first stage, we introduce a novel approach that combines Contrastive learning and masked autoencoders to pre-train on the MIMII and ToyADMOS2 datasets. This combination allows our model to capture both global and local features, leading to a more comprehensive representation of the data. In the second stage, we refine the audio representations for each machine ID by employing supervised Contrastive learning to fine-tune the pre-trained model. This process enhances the relationship between audio features originating from the same machine ID. Experiments show that our method outperforms most of the state-of-the-art self-supervised learning methods. Our suggested model achieves an average AUC and pAUC of (94.39%) and (87.93%) on the DCASE 2020 Challenge Task2 dataset, respectively. The paper is an open-access one and you can read the whole paper through this link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2uS4LM0AAAAJ&citation_for_view=2uS4LM0AAAAJ:zYLM7Y9cAGgC.},
+  author={Esmaeil Zahedi, Mohammad Saraee, Fatemeh Sadat Masoumi, Mohsen Yazdinejad},
+  journal={MDPI Algorithms 2023},
+  year={2023},
+  website={https://www.mdpi.com/1999-4893/16/9/431},
   spurious={true}
 }
 
