@@ -7,6 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-Co-organizing the [3rd Sparsity in Neural Network Workshop at ICLR](https://www.sparseneural.net/), continuing our efforts at <br />
-[2nd Sparsity in Neural Network Workshop](https://sites.google.com/view/sparsity-workshop-2022), and
-[1st Sparsity in Neural Network Workshop](https://sites.google.com/view/sparsity-workshop-2021/)
+I have been announced as the [1st rank Computer Science master's degree student](https://atu.ac.ir/en), with GPA 4/4! :sparkles:
