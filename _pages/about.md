@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Master of Computer Science</p>
-    <p>Interested in : ML,DL,DS,NLP,CV</p>
+    <p>Interests: ML,DL,DS,NLP,CV</p>
     <p>Iran, Tehran</p>
     <p><a href='fatemeh_maosumi@atu.ac.ir'>fatemeh_maosumi@atu.ac.ir</a></p>
     <p><a href='fatemeh.masoumii.1994@gmail.com'>fatemeh.masoumii.1994@gmail.com</a></p>
