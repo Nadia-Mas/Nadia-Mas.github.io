@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Master of Computer Science</p>
-    <p>Interested in : ML, DL, DS, NLP, CV</p>
+    <p>Interested in : ML,DL,DS,NLP,CV</p>
     <p>Iran, Tehran</p>
     <p><a href='fatemeh_maosumi@atu.ac.ir'>fatemeh_maosumi@atu.ac.ir</a></p>
     <p><a href='fatemeh.masoumii.1994@gmail.com'>fatemeh.masoumii.1994@gmail.com</a></p>
@@ -29,6 +29,6 @@ I have accomplished significant achievements during my time at the esteemed univ
 <!-- My research focuses on developing new methods that enable efficient machine learning from massive datasets. More specifically, I am interested in designing techniques that can gain insights from the underlying data structure by utilizing complex and higher-order interactions between data points. The extracted information can be used to efficiently explore and robustly learn from datasets that are too large to be dealt with by traditional approaches. My methods have immediate application to high-impact problems where massive data volumes prohibit efficient learning and inference, such as huge image collections, recommender systems, Web and social services, video and other large data streams. -->
 
 
-Before joining ATU, I was a graduate student of [Master Of Buisiness Administration(MBA)], specified in finance at [Tehran University](https://ut.ac.ir/en). During my undergraduate, I was a [Computer Engineering] student, specified in Software Engineering at the best Private university in Iran, Semanan named [Eyvenkey University](https://www.eyc.ac.ir/intro-en.html).
+Before joining ATU, I was a graduate student of [MBA], specified in finance at [Tehran University](https://ut.ac.ir/en). During my undergraduate, I was a [Computer Engineering] student, specified in Software Engineering at the best Private university in Iran, Semanan named [Eyvenkey University](https://www.eyc.ac.ir/intro-en.html).
   <br /><br />
 
