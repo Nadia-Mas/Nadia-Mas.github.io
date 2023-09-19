@@ -7,4 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-I received a a full scholarship for studing master's degree in computer science at[Allameh Tabataba'i University](https://atu.ac.ir/en) :sparkles:
+I received a a full scholarship for studing master's degree in computer science at [Allameh Tabataba'i University](https://atu.ac.ir/en) :sparkles:
