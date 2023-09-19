@@ -23,10 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a graduate student in [Computer Science Department](https://mcs.atu.ac.ir/en) at [ATU](https://atu.ac.ir/en).
                     
-My research focuses on [applied machine learning, deep learning, and data science], besides [computer vision and natural language processing ](https://nadia-mas.github.io/publications/). Besides, I am also interested in improving the models and learning algorithms. The resulting methods are broadly applicable for learning from massive datasets across a wide range of applications, such as medical diagnosis and fault and anomaly detection.
+My research focuses on [applied machine learning, deep learning, data science, and computer vision and natural language processing ](https://nadia-mas.github.io/publications/). Besides, I am also interested in improving the models and learning algorithms. The resulting methods are broadly applicable for learning from massive datasets across a wide range of applications, such as medical diagnosis and fault and anomaly detection.
 
-I acheived many success in this worthwhile univeristy
-
+I have accomplished significant achievements during my time at the esteemed university (ATU). I was honored to be ranked as [the 1st ranked master's degree student] in computer science for the years 2021-2023 and nominated as [the best young master's degree researcher] in the Faculty of Mathematics and Computer Science in 2022. Additionally, my dedication to teaching led to my recognition as [the best Teaching Assistant (TA)] at Allameh Tabatab'i University in 2023.
 <!-- My research focuses on developing new methods that enable efficient machine learning from massive datasets. More specifically, I am interested in designing techniques that can gain insights from the underlying data structure by utilizing complex and higher-order interactions between data points. The extracted information can be used to efficiently explore and robustly learn from datasets that are too large to be dealt with by traditional approaches. My methods have immediate application to high-impact problems where massive data volumes prohibit efficient learning and inference, such as huge image collections, recommender systems, Web and social services, video and other large data streams. -->
 
 
