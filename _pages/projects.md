@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Honours and Awards
+permalink: /Honors and Awards/
 # description: <h6>We aim to address <b>sustainability, reliability, and efficiency</b> of machine learning, by selecting the most relevant data for training, among other techniques.</h6>
 nav: true
 nav_order: 2
