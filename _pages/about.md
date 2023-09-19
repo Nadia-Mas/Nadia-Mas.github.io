@@ -9,9 +9,9 @@ profile:
   image: unnamed.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Engineering VI - 397B</p>
-    <p>404 Westwood Plaza</p>
-    <p>Los Angeles, CA 90095</p>
+    <p>Master of Computer Science</p>
+    <p>Interested in : ML, DL, DS, NLP, CV</p>
+    <p>Iran, Tehran</p>
     <p><a href='fatemeh_maosumi@atu.ac.ir'>fatemeh_maosumi@atu.ac.ir</a></p>
     <p><a href='fatemeh.masoumii.1994@gmail.com'>fatemeh.masoumii.1994@gmail.com</a></p>
 
