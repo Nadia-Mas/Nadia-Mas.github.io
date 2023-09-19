@@ -1,31 +1,92 @@
 ---
-layout: about
-title: About2
-permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: nadia.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>Engineering VI - 397B</p>
-    <p>404 Westwood Plaza</p>
-    <p>Los Angeles, CA 90095</p>
-    <p><a href='mailto:baharan@cs.ucla.edu'>baharan@cs.ucla.edu</a></p>
-
-news: true  # includes a list of news items
-# latest_posts: true  # includes a list of the newest posts
-# selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+layout: page
+title: hi
+permalink: /bigml/
+# description: </h3>PhD students:</h3>
+nav: true
+nav_order: 10
+display_categories: [work, fun]
+horizontal: false
 ---
 
-I am a graduate student in [Computer Science Department](https://mcs.atu.ac.ir/en) at [ATU](https://atu.ac.ir/en).
-                    
-My research aims to address [sustainability, reliability, and efficiency](https://baharanm.github.io/projects/) of machine learning. I am mainly working on improving the <b>big data quality</b>, by developing theoretically rigorous methods to select the most beneficial data for [efficient](projects/#efficiency) and [robust](projects/#robustness) learning. Besides, I am also interested in improving the models and learning algorithms. The resulting methods are broadly applicable for learning from massive datasets across a wide range of applications, such as medical diagnosis and environment sensing.
 
-<!-- My research focuses on developing new methods that enable efficient machine learning from massive datasets. More specifically, I am interested in designing techniques that can gain insights from the underlying data structure by utilizing complex and higher-order interactions between data points. The extracted information can be used to efficiently explore and robustly learn from datasets that are too large to be dealt with by traditional approaches. My methods have immediate application to high-impact problems where massive data volumes prohibit efficient learning and inference, such as huge image collections, recommender systems, Web and social services, video and other large data streams. -->
+<h5>PhD students:</h5>
+
+<!-- # Tweet
+An example of displaying a tweet:
+{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
+ -->
+
+<div class="row justify-content-sm-center">
+   <div class="col-sm-4 mt-3 mt-md-0">
+       <a href="https://sites.google.com/g.ucla.edu/yuyang/" >{% include figure.html path="assets/img/group/Yu.jpeg" title="Yu Yang" class="img-fluid rounded z-depth-1" %}</a>
+       <div style="text-align: center">
+         <h6><a href="https://sites.google.com/g.ucla.edu/yuyang/">Yu Yang</a></h6>
+       </div>
+   </div>
+   <div class="col-sm-4 mt-3 mt-md-0">
+       <a href="https://sites.google.com/g.ucla.edu/yihao-xue/">{% include figure.html path="assets/img/group/Yihao.jpeg" title="Yihao Xue" class="img-fluid rounded z-depth-1" %}</a>
+       <div style="text-align: center">
+            <h6><a href="https://sites.google.com/g.ucla.edu/yihao-xue/">Yihao Xue</a></h6>
+        </div>
+   </div>
+</div>
+<div class="row justify-content-sm-center">
+   <div class="col-sm-4 mt-3 mt-md-0">
+       <a href="https://sjoshi804.github.io/">{% include figure.html path="assets/img/group/Sid.jpeg" title="Siddharth Joshi" class="img-fluid rounded z-depth-1" %}</a>
+       <div style="text-align: center">
+            <h6><a href="https://sjoshi804.github.io/">Siddharth Joshi</a></h6>
+        </div>
+   </div>
+   <div class="col-sm-4 mt-3 mt-md-0">
+       <a href="https://sites.google.com/view/hangeryang/">{% include figure.html path="assets/img/group/Hanger.jpeg" title="Wenhan Yang" class="img-fluid rounded z-depth-1" %}</a>
+       <div style="text-align: center">
+           <h6><a href="https://sites.google.com/view/hangeryang/">Wenhan Yang</a></h6>
+       </div>
+   </div>
+</div>
+
+<br />
+<h5>Undergraduate Students</h5>
+- Kyle Whitecross (not graduated yet)
+- Eric Gan (not graduated yet)
+- Bruce Qu (not graduated yet)
+- Arnav Jain (not graduated yet)
+- David Davini (not graduated yet)
+- Tang Mohan (not graduated yet)
+- Victor Li (not graduated yet)
+- Jiayi Ni (not graduated yet)
+- Yuetong Xu (now PhD student at MIT)
+- Hao Kang (now PhD student at Georgia Tech)
+- Wenhan Yang, Graduated (now PhD student at UCLA)
+- Siddharth Joshi, Graduated (now PhD student at UCLA)
+- Tian Yu Liu, Graduated (now PhD student at UCLA)
+- Yuhan Liu, Graduated (now at Quant Trader)
+
+<h5>Master Students</h5>
+- Zhaoqian Wang (graduating)
+- Tedi Zaduri (now PhD student at Princeton)
+- Yuchen Liu (now at Meta)
+- Srinath Naik Ajmeera (now at Amazon)
+- Ayushi Agrawal (now at Google)
+- Manish Reddy Gottimukkula (now at Aurora)
+- Aditya Jain (now at Aurora)
+- Ashish Kumar Singh (now at Google)
+- Hemil Desai, Graduated (now at Snap Inc)
+- Harsh Chobisa, Graduated (now at Apple)
+- Rahul Malavalli, Graduated (now at YouTube)
+
+<!-- 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 
-Before joining UCLA, I was a postdoctoral research fellow in Computer Science at [Stanford University](https://www.cs.ucla.edu/) working with [Jure Leskovec](https://cs.stanford.edu/people/jure/). I received my Ph.D. in Computer Science from [ETH Zurich](https://ethz.ch/en.html) advised by [Andreas Krause](https://las.inf.ethz.ch/krausea/). I received an [ETH medal for Outstanding Doctoral Thesis](https://ethz.ch/content/dam/ethz/main/eth-zurich/education/auszeichnungen-preise/files/eth-medaille/medaille-doktorarbeit-2017.pdf), was selected as a [Rising Star in EECS by MIT](https://risingstars18-eecs.mit.edu/participant-mirzasoleiman/), and received an [NSF Career Award](https://samueli.ucla.edu/ucla-computer-scientist-receives-nsf-career-award-to-improve-sustainability-in-machine-learning/). <br /><br />
+
+[<img src="/assets/img/Yu.jpeg"  width="250" height="250">](https://sites.google.com/g.ucla.edu/yuyang/home) | [<img src="/assets/img/Yihao.jpeg"  width="250" height="250">](https://sites.google.com/g.ucla.edu/yihao-xue/home)|
+[Yu Yang](https://sites.google.com/g.ucla.edu/yuyang/home)|[Yihao Xue](https://sites.google.com/g.ucla.edu/yihao-xue/home)|
+[<img src="/assets/img/Sid.jpeg"  width="250" height="250">](https://sjoshi804.github.io/) | [<img src="/assets/img/Hanger.jpeg"  width="250" height="250">](https://www.linkedin.com/in/wenhan-yang-6413981b4/)|
+[Siddharth Joshi](https://sjoshi804.github.io/)|[Hanger Yang](https://www.linkedin.com/in/wenhan-yang-6413981b4/)| -->
 
