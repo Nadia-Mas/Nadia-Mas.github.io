@@ -1,10 +1,10 @@
 ---
-layout: page
-permalink: /teaching_talks/
-title: Teaching & Talks
+#layout: page
+#permalink: /teaching_talks/
+#title: Teaching & Talks
 # description: Teaching & Talks
-nav: true
-nav_order: 5
+#nav: true
+#nav_order: 5
 ---
 
 <b>Undergraduate course:</b> [Data Science Fundamentals (CSM 148)](https://bruinlearn.ucla.edu/courses/153936), Winter 2021-2023<br />

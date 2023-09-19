@@ -1,10 +1,10 @@
 ---
-layout: page
-permalink: /openings/
-title: Openings
+#layout: page
+#permalink: /openings/
+#title: Openings
 # description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 4
+#nav: true
+#nav_order: 4
 ---
 
 Thank you for your interest in joining <b>[BigML](http://127.0.0.1:4000/bigml/)</b>!
