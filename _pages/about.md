@@ -12,7 +12,8 @@ profile:
     <p>Engineering VI - 397B</p>
     <p>404 Westwood Plaza</p>
     <p>Los Angeles, CA 90095</p>
-    <p><a href='mailto:baharan@cs.ucla.edu'>baharan@cs.ucla.edu</a></p>
+    <p><a href='fatemeh_maosumi@atu.ac.ir'>fatemeh_maosumi@atu.ac.ir</a></p>
+    <p><a href='fatemeh.masoumii.1994@gmail.com'>fatemeh.masoumii.1994@gmail.com</a></p>
 
 news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
