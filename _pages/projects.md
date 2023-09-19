@@ -4,7 +4,7 @@ title: Honours and Awards
 permalink: /Honors and Awards/
 # description: <h6>We aim to address <b>sustainability, reliability, and efficiency</b> of machine learning, by selecting the most relevant data for training, among other techniques.</h6>
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Ranked 1st Student, Ranked 1st Student, Best TA]
 horizontal: false
 ---
