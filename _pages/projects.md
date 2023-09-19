@@ -11,7 +11,6 @@ horizontal: false
 <!-- We aim to address <span class="emp"><b>sustainability, reliability, and efficiency</b></span> of machine learning, by selecting the most relevant data for training, among other techniques. -->
 This section showcases the recognition and accolades I have received throughout my academic  journey. It highlights my achievements, such as [being ranked first among master's degree students](#Ranked 1st Student) in computer science for the years 2021-2023 and being nominated as [the Best Young Master's Degree Researcher](#Best Young Master's degree Researcher) in the esteemed Faculty of Mathematics and Computer Science in 2022. Additionally, I was honored with the title of [the Best Teaching Assistant (TA)](#Best TA) at Allameh Tabatab'i University in 2023. These accolades reflect my dedication, skills, and commitment to excellence in my field.
 
-We aim to address [sustainability and efficiency](#efficiency), as well as [reliability and robustness](#robustness) of learning from large datasets. Our research mainly focuses on addressing the above problems by selecting the most relevant data for training. But we also work on finding better models and developing better training methods.
 
 
 <!-- pages/projects.md -->
