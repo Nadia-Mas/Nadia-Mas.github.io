@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a graduate student in [Computer Science Department](https://mcs.atu.ac.ir/en) at [ATU](https://atu.ac.ir/en).
                     
-My research focuses on [applied machine learning, deep learning, and data science and computer vision and natural language processing ](https://nadia-mas.github.io/publications/). Besides, I am also interested in improving the models and learning algorithms. The resulting methods are broadly applicable for learning from massive datasets across a wide range of applications, such as medical diagnosis and fault and anomaly detection.
+My research focuses on [applied machine learning, deep learning, and data science], besides [computer vision and natural language processing ](https://nadia-mas.github.io/publications/). Besides, I am also interested in improving the models and learning algorithms. The resulting methods are broadly applicable for learning from massive datasets across a wide range of applications, such as medical diagnosis and fault and anomaly detection.
 
 I acheived many success in this worthwhile univeristy
 
