@@ -14,4 +14,4 @@ Last Update: 1/September/2023
  
  If you want to learn more about me, please feel free to download my CV. It contains detailed information about my educational background, professional expertise, skills, and accomplishments. I am confident that my diverse background and passion for AI make me a valuable asset. I look forward to the opportunity to further discuss my credentials and explore how my abilities align with your needs. Thank you for considering my profile.
 
- [Download portfolio](/assets/pdf/portfolio.pdf)
+ [Download CV](/assets/pdf/portfolio.pdf)
