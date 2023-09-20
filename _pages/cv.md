@@ -13,3 +13,5 @@ Last Update: 1/September/2023
  My name is Nadia(Fatemeh Sadat Masoumi), and I am thrilled to provide you with an overview of my qualifications and experiences.
  
  If you want to learn more about me, please feel free to download my CV. It contains detailed information about my educational background, professional expertise, skills, and accomplishments. I am confident that my diverse background and passion for AI make me a valuable asset. I look forward to the opportunity to further discuss my credentials and explore how my abilities align with your needs. Thank you for considering my profile.
+
+ [Download portfolio](pdf/portfolio.pdf)
