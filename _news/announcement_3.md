@@ -7,4 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-Our papaer [Augmenting Vision-based Human Pose Estimation with Rotation Matrix](https://arxiv.org/abs/2310.06068) has been Released on ArXiv.
+Our paper [Augmenting Vision-based Human Pose Estimation with Rotation Matrix](https://arxiv.org/abs/2310.06068) has been Released on ArXiv.👩🏻‍💻
